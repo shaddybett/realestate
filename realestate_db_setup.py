@@ -1,4 +1,4 @@
-# import sqlite3
+import sqlite3
 
 # def setup_database():
 #     # Connect to or create the SQLite database file
